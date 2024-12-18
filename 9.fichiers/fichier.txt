@@ -1,0 +1,5 @@
+Ceci est un exemple de texte écrit dans le fichier.
+Voici une deuxième ligne de texte.
+Je suis un geek
+Je code avec du C
+Les essais de Mpia
