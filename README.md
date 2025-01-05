@@ -1,5 +1,9 @@
 # Exercices et Applications pour apprendre le langage C
 
+| **Auteur** | **Langage** |
+|------------|--------------|
+| Mpia M.    | C            |
+
 Pour bien apprendre et maîtriser le langage C, il est essentiel de s'exercer à travers des exercices et des projets progressifs. Voici une liste d'exercices et d'applications, organisés par niveaux de difficulté, pour développer vos compétences en C.
 
 ## 1. Exercices de base
