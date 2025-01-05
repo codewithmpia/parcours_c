@@ -8,8 +8,10 @@ Pour bien apprendre et maîtriser le langage C, il est essentiel de s'exercer à
 
 ## 1. Exercices de base
 
-### a) Syntaxe et structure
-1. **Hello World :** Écrivez un programme qui affiche "Hello, World!".
+### a) Syntaxe et structure ([Voir](./1.syntaxe_structure/))
+
+1. **Hello World :** Écrivez un programme qui affiche "Hello, World!". [Voir l'exercice](./1.syntaxe_structure/1.hello.c)
+
 2. **Calcul simple :** Écrivez un programme qui additionne, soustrait, multiplie et divise deux nombres donnés par l'utilisateur.
 3. **Carré d'un nombre :** Demandez un nombre à l'utilisateur et affichez son carré.
 
